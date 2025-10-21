@@ -1,10 +1,11 @@
 <img src="./hello.gif" style="display:block; margin-left:auto; margin-right:auto;" />
 
 # 𝐈'𝐦 𝑮𝒖𝒊𝒍𝒍𝒆𝒓𝒎𝒐 👋  
-<span style="display:flex; align-items:center;">
-  𝐉𝒖𝒏𝒊𝒐𝒓 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 
-  <img src="./assets/coding.gif" style="width:50px; height:auto; margin-left:6px;" />
-</span>
+<div style="display:flex; align-items:center;">
+  <span>𝐉𝒖𝒏𝒊𝒐𝒓 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</span>
+  <img src="./coding.gif" style="width:50px; height:auto; margin-left:6px;" />
+</div>
+
 
 ---
 
