@@ -50,7 +50,7 @@
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg" />
   </kbd>
   <kbd>
-    <kbd>System, Networking & Deployment</kbd>
+    <kbd>DevOps & Deployment</kbd>
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vercel/vercel-original.svg" />
@@ -60,7 +60,7 @@
   </kbd>
  
    <kbd>
-    <kbd>Game Development</kbd>
+    <kbd>Game Dev</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
