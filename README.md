@@ -1,11 +1,11 @@
-<img src="./assets/hello.gif" style="display:block;float:none;margin-left:auto;margin-right:auto" />
+<img src="./hello.gif" style="display:block;float:none;margin-left:auto;margin-right:auto" />
 
 # 𝐈'𝐦 𝑮𝒖𝒊𝒍𝒍𝒆𝒓𝒎𝒐 👋
 <span style="display:flex;align-items:center">𝐉𝒖𝒏𝒊𝒐𝒓 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 <img src="./assets/coding.gif" style="width:50px;heigth:auto"/></span>
 
 > 
 
-<p style="display: inline-block;" align="center">
+
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -38,12 +38,9 @@
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" />
    
 
-    
-    
   </kbd>
   
-  <br>
-  <br>
+  
 
  <kbd>
     <kbd>Database</kbd>
