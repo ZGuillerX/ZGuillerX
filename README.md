@@ -37,10 +37,13 @@
 </kbd>
 
 <kbd>
-  <kbd>Database</kbd>
+  <kbd>Data</kbd>
   <br><br>
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" />
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg" />
 </kbd>
 
 <kbd>
