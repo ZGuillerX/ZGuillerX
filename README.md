@@ -3,7 +3,7 @@
 
 <div style="display:flex; align-items:center;">
    # 𝐈'𝐦 𝑮𝒖𝒊𝒍𝒍𝒆𝒓𝒎𝒐 👋  
-  <span>𝐉𝒖𝒏𝒊𝒐𝒓 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</span>
+  <span>𝐉𝒖𝒏𝒊𝒐𝒓 backend 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</span>
   <img src="./coding.gif" style="width:50px; height:auto; margin-left:6px;" />
 </div>
 
